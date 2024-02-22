@@ -30,7 +30,7 @@ There are 4 types of PIX keys available for registration. Each key can be shared
 
 - E-mail;
 - Mobile number;
-- CPF/CNPJ;
+- [CPF](CPF "(Cadastro de Pessoas Físicas) translates to the Individual Taxpayer Registry. It is a unique number for each Brazilian citizen or resident alien who pays taxes. It's required for many everyday transactions, such as opening bank accounts, applying for jobs, or registering for utilities.")/[CNP](CNPJ "(Cadastro Nacional da Pessoa Jurídica) stands for the National Registry of Legal Entities. It is a number that identifies a business entity in Brazil. Just like the CPF for individuals, the CNPJ is essential for companies to perform legal activities, including hiring employees, paying taxes, and opening business bank accounts.");
 - Random key.
 
 > :information_source:
