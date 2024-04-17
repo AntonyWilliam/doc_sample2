@@ -29,6 +29,11 @@
 
 The [API Name] is designed to [describe the general purpose]. It facilitates [mention the primary functions and advantages], ensuring [mention any important performance or security features].
 
+### Diagram - Flow Chart
+
+![image](https://www.gliffy.com/sites/default/files/image/2020-06/Screen-Shot-2017-11-08-at-3.jpg) 
+
+
 ## API Base URL
 
 All API requests should be made to the base URL:
