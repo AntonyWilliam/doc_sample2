@@ -1,6 +1,9 @@
 # API Documentation for [API Name]
 
-This document provides detailed information about the [API Name], designed to [briefly describe the purpose and function of the API].
+
+|    ![image](https://github.com/AntonyWilliam/doc_sample2/assets/54343267/9b5e8bc2-7a43-4451-9c69-a360e48c5a3a)     |      This document provides detailed information about the [API Name], designed to [briefly describe the purpose and function of the API].        |
+|------------------|----------------------------|
+
 
 **Table of Contents**:
 
@@ -156,6 +159,3 @@ This API uses [type of authentication, e.g., OAuth 2.0, API keys] for securing e
 Was this article helpful? (Link to Forms)
 |[:heavy_check_mark: Yes](teste)|[:x: No](teste)|
 |---|---|
-
-
-This version includes the "Related Topics" section and a feedback mechanism using interactive emojis. Adjust the hyperlinks as needed to make them functional within your documentation environment or website.
