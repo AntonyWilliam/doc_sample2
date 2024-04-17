@@ -151,8 +151,9 @@ This API uses [type of authentication, e.g., OAuth 2.0, API keys] for securing e
 - For more details about each API method, refer to the specified sections above.
 - Ensure that all API interactions are conducted over HTTPS to secure data in transit.
 
-> **Note**
-> : Changes in the API or the way it's accessed can be frequent. Always check this documentation for the latest updates before making calls.
+>[!NOTE]
+   >
+   > Changes in the API or the way it's accessed can be frequent. Always check this documentation for the latest updates before making calls.
 
 ## Feedback
 
