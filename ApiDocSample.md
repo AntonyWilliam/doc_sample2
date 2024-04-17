@@ -153,12 +153,9 @@ This API uses [type of authentication, e.g., OAuth 2.0, API keys] for securing e
 
 ## Feedback
 
-Was this article helpful?
-
-| [:heavy_check
-
-_mark: Yes](#) | [:x: No](#) |
-|-----------------------------|-------------|
+Was this article helpful? (Link to Forms)
+|[:heavy_check_mark: Yes](teste)|[:x: No](teste)|
+|---|---|
 
 
 This version includes the "Related Topics" section and a feedback mechanism using interactive emojis. Adjust the hyperlinks as needed to make them functional within your documentation environment or website.
