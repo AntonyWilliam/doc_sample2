@@ -1,10 +1,5 @@
 # API Documentation for [API Name]
 
-
-|    ![image](https://github.com/AntonyWilliam/doc_sample2/assets/54343267/9b5e8bc2-7a43-4451-9c69-a360e48c5a3a)     |      This document provides detailed information about the [API Name], designed to [briefly describe the purpose and function of the API].        |
-|------------------|----------------------------|
-
-
 **Table of Contents**:
 
 - [Introduction](#introduction)
